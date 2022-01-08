@@ -1,0 +1,23 @@
+body {
+  background-color: skyblue;
+}
+
+#app {
+  margin-top: 10px;
+  height: 400px;
+  background-color: white;
+  border-radius: 20px;
+  padding: 20px;
+  display: none;
+}
+
+.form_element {
+  margin-top: 20px;
+}
+
+.title {
+  text-align: center;
+  color: tomato;
+  font-size: 30px;
+  margin-top: 20px;
+}
